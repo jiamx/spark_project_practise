@@ -33,16 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MostRatedFilms.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MostRatedFilms.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/jmx/metrics/MostRatedFilms.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
               <folding>
                 <element signature="e#25#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="GenresByAverageRating.scala" pinned="false" current-in-tab="false">
@@ -58,6 +63,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/jmx/metrics/GenresByAverageRating.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jmx/demos/DemoMainApp.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jmx/metrics/MostRatedFilms.scala" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -110,6 +119,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -281,16 +291,15 @@
       <option name="presentableId" value="Default" />
       <updated>1605769582185</updated>
       <workItem from="1605769586990" duration="12824000" />
-      <workItem from="1605836445620" duration="18947000" />
+      <workItem from="1605836445620" duration="20425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31771000" />
+    <option name="totallyTimeSpent" value="33249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.151357" />
@@ -310,9 +319,9 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2703549" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.371875" weight="0.5305677" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5125261" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.371875" visible="true" weight="0.2413793" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info anchor="right" id="Bean Validation" order="12" />
       <window_info anchor="right" id="R Packages" order="6" />
@@ -540,13 +549,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/jmx/metrics/MostRatedFilms.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
           <folding>
             <element signature="e#25#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
