@@ -35,13 +35,13 @@ object DemoMainApp {
 
     // 需求1：查找电影评分个数超过5000,且平均评分较高的前十部电影名称及其对应的平均评分
     val bestFilmsByOverallRating = new BestFilmsByOverallRating
-    //bestFilmsByOverallRating.run(movieDF, ratingDF, spark)
+    bestFilmsByOverallRating.run(movieDF, ratingDF, spark)
 
     // 需求2：查找每个电影类别及其对应的平均评分
     val genresByAverageRating = new GenresByAverageRating
-    //genresByAverageRating.run(movieDF, ratingDF, spark)
+    genresByAverageRating.run(movieDF, ratingDF, spark)
 
-    // 需求3：
+    // 需求3：查找被评分次数较多的前十部电影
     val mostRatedFilms = new MostRatedFilms
     mostRatedFilms.run(movieDF, ratingDF, spark)
 

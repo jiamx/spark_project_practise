@@ -11,7 +11,7 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
   *  @Time: 15:23
   *  */
 /**
-  * Finds the 10 movies having the greatest amount of ratings.
+  * 需求3：查找被评分次数较多的前十部电影.
   */
 class MostRatedFilms extends Serializable {
    def run(moviesDataset: DataFrame, ratingsDataset: DataFrame,spark: SparkSession) = {
