@@ -27,7 +27,7 @@ http://files.grouplens.org/datasets/movielens/ml-25m.zip
 
 ### 项目代码结构
 
-![](../resources/代码结构.png)
+![](https://github.com/jiamx/spark_project_practise/blob/master/src/main/resources/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.png)
 
 ## 需求分析
 
